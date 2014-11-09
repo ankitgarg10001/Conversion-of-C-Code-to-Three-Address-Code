@@ -1,0 +1,36 @@
+{
+
+
+
+for   (	i=0;i+2<b-4;i=i+1)
+{a=b+c*d--d;
+w=x+y;
+}
+
+
+i=5;
+while(i>0)
+{
+a=b+c*d--d;
+w=x+y;
+a=b+c*4;
+sum=sum+count  ; 
+
+
+
+}
+
+
+
+do{
+i=i+1;
+}while(i<5);
+
+
+for(count=1;count<=n;count=count+1)
+    {
+        sum=sum+count  ; 
+    }
+    
+    
+}
